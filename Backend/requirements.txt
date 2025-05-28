@@ -1,0 +1,9 @@
+
+flask_sqlalchemy
+flask_migrate
+flask_security-too  # installed Flask-Principal-0.4.0 email-validator-2.2.0 flask_security-too-5.6.2 libpass-1.9.1.post0
+flask-cors
+python-dotenv
+llama-index
+langchain
+#boto3
